@@ -1,0 +1,183 @@
+{
+  "brand": {
+    "name": "quiet",
+    "suffix": "hours.",
+    "navCtaText": "LET’S TALK ↗",
+    "navCtaLink": "#contact"
+  },
+  "navLinks": [
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience"
+    },
+    {
+      "label": "Pricing",
+      "href": "#pricing"
+    }
+  ],
+  "hero": {
+    "eyebrow": "SYDNEY / AI AUTOMATION STUDIO",
+    "headlinePart1": "Business doesn’t",
+    "headlineEm": "sleep.",
+    "headlinePart2": "Neither should your replies.",
+    "description": "A more thoughtful way to run your business. Quiet Hours automates customer enquiries, booking requests and repetitive admin — even after closing time.",
+    "primaryCtaText": "BOOK A FREE DEMO ↗",
+    "primaryCtaLink": "#contact",
+    "secondaryCtaText": "EXPLORE THE EXPERIENCE ↓",
+    "secondaryCtaLink": "#experience",
+    "chipOne": "✉   NEW ENQUIRY",
+    "chipTwo": "✓   LIVE AI ACTIVE",
+    "orbitCoreTitle": "QUIET\nHOURS",
+    "orbitCoreSubtitle": "ALWAYS THERE"
+  },
+  "experience": {
+    "sectionLabel": "01 / THE FIELD GUIDE",
+    "headingPart1": "The art of",
+    "headingEm": "always being there.",
+    "description": "A smarter business doesn’t have to work harder. Turn the page to discover what happens after hours.",
+    "chapters": [
+      {
+        "eyebrow": "01 / THE IDEA",
+        "title": "Your business. Always there.",
+        "body": "A helpful answer at 9:47 pm can become tomorrow’s customer. Quiet Hours helps your business respond without keeping you glued to your phone.",
+        "label": "THE OPPORTUNITY"
+      },
+      {
+        "eyebrow": "02 / THE REPLY",
+        "title": "A conversation begins.",
+        "body": "Customers ask about hours, prices and services. Your assistant responds using information you approve, and hands unusual requests back to you.",
+        "label": "ENQUIRY REPLIES"
+      },
+      {
+        "eyebrow": "03 / THE BOOKING",
+        "title": "Less back and forth.",
+        "body": "Collect appointment requests and send reminders when your booking tools are connected. No imaginary availability or automatic bookings without integration.",
+        "label": "SMARTER SCHEDULING"
+      },
+      {
+        "eyebrow": "04 / THE RESULT",
+        "title": "More time to breathe.",
+        "body": "A calmer inbox, fewer repetitive tasks, and the freedom to focus on the people who matter most.",
+        "label": "THE QUIET HOURS EFFECT"
+      }
+    ]
+  },
+  "ticker": {
+    "text": "✦ ALWAYS ON    ✦ AUTOMATIC REPLIES    ✦ SMARTER BOOKINGS    ✦ LESS ADMIN    ✦ ALWAYS ON    ✦ AUTOMATIC REPLIES"
+  },
+  "intro": {
+    "sectionLabel": "02 / THE IDEA",
+    "headingPart1": "More conversations.",
+    "headingEm": "Less chasing.",
+    "description": "Customers message at all hours. Your business can give helpful answers, collect details and prepare the next step — without you being glued to your phone."
+  },
+  "services": {
+    "sectionLabel": "03 / WHAT WE DO",
+    "headingPart1": "Small automations.",
+    "headingEm": "Big breathing room.",
+    "items": [
+      {
+        "number": "01",
+        "symbol": "✳",
+        "title": "Enquiry replies",
+        "description": "Helpful answers to routine questions about prices, opening hours, services and locations."
+      },
+      {
+        "number": "02",
+        "symbol": "◷",
+        "title": "Bookings & reminders",
+        "description": "Capture appointment requests and send reminders through connected booking systems."
+      },
+      {
+        "number": "03",
+        "symbol": "◎",
+        "title": "Admin, simplified",
+        "description": "Tidy customer information, prepare routine summaries and reduce repetitive manual work."
+      }
+    ]
+  },
+  "process": {
+    "sectionLabel": "04 / BEHIND THE SCENES",
+    "headingPart1": "A circle of",
+    "headingEm": "service.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Enquiry received",
+        "description": "A customer asks about an appointment at 9:47 pm."
+      },
+      {
+        "number": "02",
+        "title": "AI responds",
+        "description": "The assistant answers approved questions and collects details."
+      },
+      {
+        "number": "03",
+        "title": "Request captured",
+        "description": "The enquiry is prepared for booking or staff follow-up."
+      },
+      {
+        "number": "04",
+        "title": "You stay in control",
+        "description": "Complex questions are escalated instead of guessed."
+      }
+    ]
+  },
+  "pricing": {
+    "sectionLabel": "05 / SIMPLE PRICING",
+    "headingPart1": "Clear pricing.",
+    "headingEm": "No mystery.",
+    "intro": "Indicative starting ranges in AUD. Your final quote depends on your systems and the automation you need.",
+    "plans": [
+      {
+        "tag": "ONE-TIME SETUP",
+        "amount": "$300–$800",
+        "period": "",
+        "description": "Build, test and launch one practical automation for your business.",
+        "features": [
+          "Discovery and workflow design",
+          "Initial configuration",
+          "Testing and handover"
+        ],
+        "ctaText": "REQUEST A DEMO ↗",
+        "ctaLink": "#contact",
+        "featured": true
+      },
+      {
+        "tag": "OPTIONAL MONTHLY CARE",
+        "amount": "$50–$150",
+        "period": "/ month",
+        "description": "Keep your automations up to date and running smoothly.",
+        "features": [
+          "Changes to hours and services",
+          "Fixes and maintenance",
+          "Monthly check-in"
+        ],
+        "ctaText": "ASK ABOUT SUPPORT ↗",
+        "ctaLink": "#contact",
+        "featured": false
+      }
+    ],
+    "note": "Final scope and pricing confirmed in writing before work begins. Third-party software fees may be additional."
+  },
+  "contact": {
+    "sectionLabel": "06 / YOUR NEXT CHAPTER",
+    "headingPart1": "Make room for",
+    "headingEm": "quiet hours.",
+    "description": "Let’s build a free demo around a question your customers ask every day.",
+    "email": "hello@quiethours.com.au",
+    "ctaText": "BOOK A FREE DEMO ↗"
+  },
+  "footer": {
+    "copyright": "© Quiet Hours · AI automation for Sydney small businesses",
+    "tagline": "Made for the hours that matter."
+  }
+}

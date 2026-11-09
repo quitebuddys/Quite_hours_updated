@@ -1,0 +1,8 @@
+{
+  "name": "Quiet Hours",
+  "description": "Practical AI enquiry replies, booking requests and admin automation for Sydney small businesses.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

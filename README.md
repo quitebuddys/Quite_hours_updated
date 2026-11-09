@@ -1,11 +1,33 @@
-<div align="center">
+# Quiet Hours — cinematic 3D website
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A Next.js + TypeScript website for Quiet Hours, based on the supplied business copy and cinematic pear reference. The pear is generated as real WebGL geometry at runtime, with procedural speckles, stem, lighting, rotation and pointer parallax. Orchard geometry is also procedural.
 
-  <h1>Built with AI Studio</h2>
+## Run locally
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+```bash
+npm install
+npm run dev
+```
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+Open http://localhost:3000.
 
-</div>
+## Build for deployment
+
+```bash
+npm run build
+npm run start
+```
+
+Deploy on Vercel by importing this folder as a Next.js project.
+
+## Before publishing
+
+- Replace `your-email@example.com` in `app/page.tsx` with a real contact email.
+- Confirm that the listed services and indicative AUD prices are accurate.
+- The chat messages are illustrative demonstrations, not a connected AI service. Real chatbot, calendar, CRM, email or payment integrations need separate setup.
+- Procedural fruit is stylized 3D, not a photogrammetry-grade asset. For fully photorealistic results, replace it with a licensed high-quality textured GLB pear model and suitable orchard models.
+- Run browser and device testing and performance profiling before production launch.
+
+## Technology
+
+Next.js, React, TypeScript, Tailwind CSS, Three.js, React Three Fiber, Drei, GSAP ScrollTrigger, Lenis and Framer Motion.
